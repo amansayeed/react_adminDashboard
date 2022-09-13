@@ -1,6 +1,7 @@
-![Alt text](https://github.com/amansayeed/react_adminDashboard.git/Admin-Dashboard.png?raw=true "Optional Title")
-![Alt text](https://github.com/amansayeed/react_adminDashboard.git/Admin-Dashboard1.png?raw=true "Optional Title")
 
+# screenshot
+![Screenshot](Admin-Dashboard1.png)
+![Screenshot](Admin-Dashboard.png)
 
 # Getting Started with Create React App
 
